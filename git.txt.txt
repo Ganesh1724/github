@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript</title>
+
+    <style>
+       
+    </style>
+</head>
+<body>
+
+    <h1>JavaScript DOM,Started</h1>
+
+    <p>Welcome back to <span>youtube</span></p>
+
+
+
+     <ul class = "list navbar" >
+        <li>Home</li>
+        <li>About</li>
+        <li>Login</li>
+        <li>Logout</li>
+     </ul>
